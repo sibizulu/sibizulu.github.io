@@ -1,2 +1,2 @@
 # Sibiraj PR
-[About Me](https://sibizulu.github.io/about)
+[About Me](http://sibiraj.in/about)
